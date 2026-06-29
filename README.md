@@ -46,7 +46,7 @@ Just a guy building bots and tools with AI. Mostly Python, mostly for fun.
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dimaad5017-dotcom&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dimaad5017-dotcom&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaad5017-dotcom&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="langs" />
 </p>
 

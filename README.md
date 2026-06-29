@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:8338ec&height=200&section=header&text=Dima&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=17%20y.o.%20developer%20%C2%B7%20AI%20tools%20%26%20Telegram%20bots&descSize=18&descAlignY=58" alt="header" />
+<h1 align="center">Dima</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=17%20y.o.%20developer;AI%20tools%20and%20Telegram%20bots;author%20of%20SaaS%20Medvise" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=C9D1D9&center=true&vCenter=true&width=600&lines=17%20y.o.%20developer;AI%20tools%20and%20Telegram%20bots;author%20of%20SaaS%20Medvise" alt="typing" />
 </p>
 
 <p align="center">
@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dimaad5017-dotcom&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=dimaad5017-dotcom&style=for-the-badge&color=444444&label=PROFILE+VIEWS" alt="views" />
 </p>
 
 ---
 
-### 🚀 About me
+### About me
 
 Just a guy building bots and tools with AI. Mostly Python, mostly for fun.
 
-### 🛠️ Featured projects
+### Featured projects
 
 <table>
 <tr>
@@ -43,25 +43,19 @@ Just a guy building bots and tools with AI. Mostly Python, mostly for fun.
 </tr>
 </table>
 
-### 📊 GitHub stats
+### GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dimaad5017-dotcom&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaad5017-dotcom&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dimaad5017-dotcom&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaad5017-dotcom&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimaad5017-dotcom&hide_border=true&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimaad5017-dotcom&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dimaad5017-dotcom&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" alt="trophies" />
-</p>
-
-### 🤝 Connect
+### Connect
 
 <p align="center">
   <a href="https://github.com/dimaad5017-dotcom"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8338ec,100:58a6ff&height=120&section=footer" alt="footer" />

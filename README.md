@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dimaad5017-dotcom&style=for-the-badge&color=444444&label=PROFILE+VIEWS" alt="views" />
-</p>
-
 ---
 
 ### About me
@@ -46,12 +42,12 @@ Just a guy building bots and tools with AI. Mostly Python, mostly for fun.
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dimaad5017-dotcom&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaad5017-dotcom&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="langs" />
+  <img src="https://img.shields.io/github/followers/dimaad5017-dotcom?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0d1117&color=30363d" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=dimaad5017-dotcom&style=for-the-badge&label=PROFILE+VIEWS&color=30363d" alt="views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimaad5017-dotcom&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=dimaad5017-dotcom&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
 </p>
 
 ### Connect
